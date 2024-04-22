@@ -1,0 +1,30 @@
+C:\Users\mrmos\PROJECTS1\Visual Programming\P07-Melvin\P07-Melvin\bin\Debug\P07-Melvin.exe.config
+C:\Users\mrmos\PROJECTS1\Visual Programming\P07-Melvin\P07-Melvin\bin\Debug\P07-Melvin.exe
+C:\Users\mrmos\PROJECTS1\Visual Programming\P07-Melvin\P07-Melvin\bin\Debug\P07-Melvin.pdb
+C:\Users\mrmos\PROJECTS1\Visual Programming\P07-Melvin\P07-Melvin\obj\Debug\P07-Melvin.csproj.AssemblyReference.cache
+C:\Users\mrmos\PROJECTS1\Visual Programming\P07-Melvin\P07-Melvin\obj\Debug\P07_Melvin.Form1.resources
+C:\Users\mrmos\PROJECTS1\Visual Programming\P07-Melvin\P07-Melvin\obj\Debug\P07_Melvin.Properties.Resources.resources
+C:\Users\mrmos\PROJECTS1\Visual Programming\P07-Melvin\P07-Melvin\obj\Debug\P07-Melvin.csproj.GenerateResource.cache
+C:\Users\mrmos\PROJECTS1\Visual Programming\P07-Melvin\P07-Melvin\obj\Debug\P07-Melvin.csproj.CoreCompileInputs.cache
+C:\Users\mrmos\PROJECTS1\Visual Programming\P07-Melvin\P07-Melvin\obj\Debug\P07-Melvin.exe
+C:\Users\mrmos\PROJECTS1\Visual Programming\P07-Melvin\P07-Melvin\obj\Debug\P07-Melvin.pdb
+C:\Users\Mel\source\repos\P07_Melvin\P07-Melvin\P07-Melvin\obj\Debug\P07-Melvin.csproj.AssemblyReference.cache
+C:\Users\Mel\source\repos\P07_Melvin\P07-Melvin\P07-Melvin\obj\Debug\P07_Melvin.Form1.resources
+C:\Users\Mel\source\repos\P07_Melvin\P07-Melvin\P07-Melvin\obj\Debug\P07_Melvin.Properties.Resources.resources
+C:\Users\Mel\source\repos\P07_Melvin\P07-Melvin\P07-Melvin\obj\Debug\P07-Melvin.csproj.GenerateResource.cache
+C:\Users\Mel\source\repos\P07_Melvin\P07-Melvin\P07-Melvin\obj\Debug\P07-Melvin.csproj.CoreCompileInputs.cache
+C:\Users\Mel\source\repos\P07_Melvin\P07-Melvin\P07-Melvin\bin\Debug\P07-Melvin.exe.config
+C:\Users\Mel\source\repos\P07_Melvin\P07-Melvin\P07-Melvin\bin\Debug\P07-Melvin.exe
+C:\Users\Mel\source\repos\P07_Melvin\P07-Melvin\P07-Melvin\bin\Debug\P07-Melvin.pdb
+C:\Users\Mel\source\repos\P07_Melvin\P07-Melvin\P07-Melvin\obj\Debug\P07-Melvin.exe
+C:\Users\Mel\source\repos\P07_Melvin\P07-Melvin\P07-Melvin\obj\Debug\P07-Melvin.pdb
+C:\Users\Mel\source\repos\P07-Melvin\P07-Melvin\bin\Debug\P07-Melvin.exe.config
+C:\Users\Mel\source\repos\P07-Melvin\P07-Melvin\bin\Debug\P07-Melvin.exe
+C:\Users\Mel\source\repos\P07-Melvin\P07-Melvin\bin\Debug\P07-Melvin.pdb
+C:\Users\Mel\source\repos\P07-Melvin\P07-Melvin\obj\Debug\P07-Melvin.csproj.AssemblyReference.cache
+C:\Users\Mel\source\repos\P07-Melvin\P07-Melvin\obj\Debug\P07_Melvin.Form1.resources
+C:\Users\Mel\source\repos\P07-Melvin\P07-Melvin\obj\Debug\P07_Melvin.Properties.Resources.resources
+C:\Users\Mel\source\repos\P07-Melvin\P07-Melvin\obj\Debug\P07-Melvin.csproj.GenerateResource.cache
+C:\Users\Mel\source\repos\P07-Melvin\P07-Melvin\obj\Debug\P07-Melvin.csproj.CoreCompileInputs.cache
+C:\Users\Mel\source\repos\P07-Melvin\P07-Melvin\obj\Debug\P07-Melvin.exe
+C:\Users\Mel\source\repos\P07-Melvin\P07-Melvin\obj\Debug\P07-Melvin.pdb
